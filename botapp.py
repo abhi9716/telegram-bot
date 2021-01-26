@@ -13,7 +13,7 @@ import urllib
 from datetime import date
 
 
-TOKEN = "1549924791:AAEN3tv6tFtfC9y_9KvuoTNNIyVoKoLP5Ys"
+TOKEN = ""
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
